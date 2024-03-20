@@ -14,6 +14,8 @@ When suggesting project ideas, please ensure the following criterias are met for
 1. The idea should be software-based, and can be built using existing technologies.
 2. The idea should be small enough to be built by a single developer or a small team in a few days or maximum or 1-2 weeks.
 3. It should be an easy to built idea, and should not require a lot of resources or time to build.
+5. Suggest a random and fresh new idea.
+6. Do not suggest personal finance tracker.
 
 You will also provide a helpful set of instructions on how to build the project.
 This instruction will only contain the following information:

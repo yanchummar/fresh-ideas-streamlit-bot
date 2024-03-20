@@ -36,6 +36,7 @@ if prompt := st.chat_input("What is up?"):
     for response in client.chat.completions.create(
       model="gpt-4-turbo-preview",
       messages=messages,
+      temperature=1.2,
       #will provide lively writing
       stream=True,
     ):
